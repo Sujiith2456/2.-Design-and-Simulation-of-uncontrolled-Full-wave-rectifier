@@ -55,5 +55,11 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+
+![exp2](https://github.com/user-attachments/assets/330742bb-5712-4658-900a-78c7a8a0caee)
+
 ## Output
+![exp 2](https://github.com/user-attachments/assets/57555d77-ae3d-4761-844e-6e0da3b6669f)
+
 ## Result
+uncontrolled Full wave Rectifier is designed in matlab and simulated successfully.
